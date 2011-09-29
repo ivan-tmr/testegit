@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/41/trunk/LivroAndroidCap14-BancoDados/src/br/livro/android/cap14/banco
+END
+EditarCarro.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/41/trunk/LivroAndroidCap14-BancoDados/src/br/livro/android/cap14/banco/EditarCarro.java
+END
+SQLiteHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/41/trunk/LivroAndroidCap14-BancoDados/src/br/livro/android/cap14/banco/SQLiteHelper.java
+END
+CarroListAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/41/trunk/LivroAndroidCap14-BancoDados/src/br/livro/android/cap14/banco/CarroListAdapter.java
+END
+RepositorioCarro.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/41/trunk/LivroAndroidCap14-BancoDados/src/br/livro/android/cap14/banco/RepositorioCarro.java
+END
+BuscarCarro.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/41/trunk/LivroAndroidCap14-BancoDados/src/br/livro/android/cap14/banco/BuscarCarro.java
+END
+Carro.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/41/trunk/LivroAndroidCap14-BancoDados/src/br/livro/android/cap14/banco/Carro.java
+END
+CadastroCarros.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/41/trunk/LivroAndroidCap14-BancoDados/src/br/livro/android/cap14/banco/CadastroCarros.java
+END
+RepositorioCarroScript.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/41/trunk/LivroAndroidCap14-BancoDados/src/br/livro/android/cap14/banco/RepositorioCarroScript.java
+END
